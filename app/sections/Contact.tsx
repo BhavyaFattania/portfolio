@@ -65,7 +65,7 @@ const Contact = () => {
                             />
                         </Link>
                         <Link
-                            href="https://portfolio-bhavya-1y0kxyy5d-bhavyafattanias-projects-dfc4472a.vercel.app/"
+                            href="https://www.linkedin.com/in/bhavya-fattania-637527285/"
                             target="_blank"
                             aria-label="View linkedin Profile"
                         >
