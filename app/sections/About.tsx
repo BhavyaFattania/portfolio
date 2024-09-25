@@ -11,7 +11,7 @@ const About = () => {
         >
             <div className="mx-auto flex w-[90%] flex-col items-center justify-center lg:max-w-[1212.8px]">
                 <AnimatedTitle
-                    text={"Mudunuri bhaskara karthikeya varma."}
+                    text={"Bhavya Jignesh Fattania"}
                     className={
                         "mb-10 text-left text-[40px] font-bold leading-[0.9em] tracking-tighter text-[#e4ded7] sm:text-[45px] md:mb-16 md:text-[60px] lg:text-[80px]"
                     }
@@ -21,11 +21,11 @@ const About = () => {
 
                 <div className="mx-auto flex w-[100%] flex-col lg:max-w-[1200px] lg:flex-row lg:gap-20">
                     <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
-                        <AnimatedBody text="pursuing my B.tech in woxen university. I want to learn more about Front-end & Full Stack Development and i have a good command in javascript, Next.js, react.js, HTML&CSS. I believe in trying out new things and picking up challenges as it is always great to have knowledge in variety of subjects and have various experiences to share. im more interested in developing my weaknesses..." />
+                        <AnimatedBody text="pursuing my B.E from L.D. College of Engineering.I am having strong interest in Artificial Intelligence, Machine Learning, and Data Science. With hands-on experience in developing innovative solutions in Computer Vision and Natural Language Processing, I thrive on solving complex problems and creating meaningful applications that bridge the gap between AI and real-world use cases." />
 
                         <AnimatedBody
                             delay={0.1}
-                            text="Whether I’m designing a sleek user interface or coding a complex application, I’m always striving to create something unique and innovative. I love experimenting with new technologies and staying up-to-date with the latest trends in the tech world."
+                            text="I have successfully worked on projects such as conversational image recognition chatbots, automated scheduling systems, and large-scale data analysis. My expertise spans across various domains, including web development, AI research, and model deployment. I enjoy tackling challenges, continuously learning, and sharing my knowledge with the community."
                         />
 
                         <AnimatedBody
