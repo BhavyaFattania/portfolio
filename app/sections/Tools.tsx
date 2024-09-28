@@ -4,8 +4,10 @@ import AnimatedBody from "../animations/AnimatedBody";
 import AnimatedTitle from "../animations/AnimatedTitle";
 import {
     SiGit,
-    SiGithub,SiNumpy,SiPandas,SiPlotly,IoLogoPython,FaJava
+    SiGithub
 } from "react-icons/si";
+import FaJava;
+import IoLogoPython;
 import AnimatedTools from "../animations/AnimatedTools.tsx";
 
 const Tools = () => {
