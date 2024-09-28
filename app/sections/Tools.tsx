@@ -4,10 +4,9 @@ import AnimatedBody from "../animations/AnimatedBody";
 import AnimatedTitle from "../animations/AnimatedTitle";
 import {
     SiGit,
-    SiGithub
+    SiGithub,SiPandas
 } from "react-icons/si";
-import FaJava;
-import IoLogoPython;
+
 import AnimatedTools from "../animations/AnimatedTools.tsx";
 
 const Tools = () => {
@@ -32,8 +31,8 @@ const Tools = () => {
                         <AnimatedBody delay={0.2} text="Frontend" />
                         <div>
                             <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.2} stepSize={0.1} iconSize={50}>
-                                <FaJava size={50}/>
-                                <IoLogoPython size={50}/>
+                                <SiPandas size={50}/>
+                        
                                
                             </AnimatedTools>
                         </div>
